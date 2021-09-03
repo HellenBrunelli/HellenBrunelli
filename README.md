@@ -23,7 +23,7 @@ Seja bem vinda(o)! 😃 :smile:
 <img width="30%" align="right" alt="Github" src="https://github.com/HellenBrunelli/HellenBrunelli/blob/master/astro-uki-blazing.png" />
 
 
-- 🔭 Trabalho com Salesforce Commerce Cloud, mas atualmente estou trabalhando/aprendendo o Lightning Web Components.
+- 🔭 Trabalho com Salesforce Commerce Cloud, e atualmente estou trabalhando/aprendendo o Lightning Web Components.
 
 
 - 🌱 Atualmente estou criando meu portfólio em React para me desafiar e aprender na prática a trabalhar com esse framework. 
@@ -44,7 +44,7 @@ Seja bem vinda(o)! 😃 :smile:
 
  </br>
  </br>
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2> Conecte-se comigo <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/hellenbrunelli'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = '@hellenbrunelli'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
 <a href = 'https://www.github.com/HellenBrunelli'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
@@ -52,7 +52,7 @@ Seja bem vinda(o)! 😃 :smile:
  </br>
  </br>
  </br>
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+<h2> Meu Github Status <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
  </br>
  </br>
