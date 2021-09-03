@@ -1,7 +1,7 @@
 
-<div align="center">
+<!-- <div align="center">
 <img width="100%" height = "250px" src="https://github.com/HellenBrunelli/HellenBrunelli/blob/master/hellen-brunelli.png" alt="cover" />
-</div>
+</div> -->
 
 <h1> Olá < Devs/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
