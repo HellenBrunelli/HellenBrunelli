@@ -5,7 +5,7 @@
 
 <span>Readme in development</span>
 
-<h1> Olá < Devs/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Olá! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=HellenBrunelli.HellenBrunelli)
@@ -14,7 +14,7 @@
 <div size='20px'> Sou Hellen Brunelli, mulher, mãe e desenvolvedora FrontEnd. </br>
 Formada em gestão de Pessoas pela IESA e em desenvolvimento Front end através da iniciativa Reprograma.
   </br>
-Trabalho com desenvolvimento a 2 anos e procuro sempre compartilhar algumas coisas que estou aprendendo nesse tempo.
+Trabalho com desenvolvimento a 3 anos e procuro sempre compartilhar algumas coisas que estou aprendendo nesse tempo.
  </br>
 Seja bem vinda(o)! 😃 :smile: 
 </div>
@@ -25,7 +25,7 @@ Seja bem vinda(o)! 😃 :smile:
 <img width="30%" align="right" alt="Github" src="https://github.com/HellenBrunelli/HellenBrunelli/blob/master/astro-uki-blazing.png" />
 
 
-- 🔭 Trabalho com Salesforce Commerce Cloud, e atualmente estou trabalhando/aprendendo o Lightning Web Components.
+- 🔭 Trabalho com a nuvem de SFCC a 3 anos, e tive a oportunidade de trabalhar num projeto B2B desenvolvendo componentes Lightning.
 
 
 - 🌱 Atualmente estou criando meu portfólio em React para me desafiar e aprender na prática a trabalhar com esse framework. 
