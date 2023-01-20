@@ -144,8 +144,6 @@
     <img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black" alt=Codepen style="margin-bottom: 5px;"/>
   </a>
 
-  ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
-  
 </div>
 
 <br>
