@@ -23,7 +23,7 @@
 - Estudante do 2° Trimestre de Inglês na [LS Idiomas](https://lsidiomas.com.br/)
 - [Portfólio](https://hellenbrunelli.github.io/) - (em desenvolvimento)
 - Eu estou aberta a oportunidades, para atuar em desenvolvimento FrontEnd, 
-- [Currículo]()
+- [Meu Currículo](https://github.com/HellenBrunelli/HellenBrunelli/blob/master/docs/CW-Hellen-Brunelli-Dev-Front-Salesforce.pdf)
   
 <br><br>
 
