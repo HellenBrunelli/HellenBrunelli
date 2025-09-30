@@ -72,10 +72,10 @@
 
 <img src = "https://res.cloudinary.com/trailhead/image/upload/public-trailhead/assets/images/ranks/scout.png" width = 80px>
 <img src = "https://res.cloudinary.com/trailhead/image/upload/public-trailhead/assets/images/ranks/hiker.png" width = 80px>
-<!-- <img src = "https://res.cloudinary.com/trailhead/image/upload/public-trailhead/assets/images/ranks/explorer.png" width = 80px>
+<img src = "https://res.cloudinary.com/trailhead/image/upload/public-trailhead/assets/images/ranks/explorer.png" width = 80px>
 <img src = "https://res.cloudinary.com/trailhead/image/upload/public-trailhead/assets/images/ranks/adventurer.png" width = 80px>
 <img src = "https://res.cloudinary.com/trailhead/image/upload/public-trailhead/assets/images/ranks/mountaineer.png" width = 80px>
-<img src = "https://res.cloudinary.com/trailhead/image/upload/public-trailhead/assets/images/ranks/expeditioner.png" width = 80px>
+<!-- <img src = "https://res.cloudinary.com/trailhead/image/upload/public-trailhead/assets/images/ranks/expeditioner.png" width = 80px>
 <img src = "https://res.cloudinary.com/trailhead/image/upload/public-trailhead/assets/images/ranks/ranger.png" width = 80px> -->
 
   
